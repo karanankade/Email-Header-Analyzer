@@ -1,0 +1,43 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="row">
+  <div class="col-lg-6">
+    <div class="card mb-3">
+      <div class="card-header">Upload or Paste Email Header</div>
+      <div class="card-body">
+        <form id="analyze-form" enctype="multipart/form-data">
+          <div class="mb-3">
+            <label class="form-label">Header Text</label>
+            <textarea class="form-control" name="header_text" rows="8" placeholder="Paste raw email header here..."></textarea>
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Or Upload .eml File</label>
+            <input class="form-control" type="file" name="eml_file" accept=".eml" />
+          </div>
+          <button class="btn btn-primary" type="submit">Analyze</button>
+        </form>
+      </div>
+    </div>
+  </div>
+  <div class="col-lg-6">
+    <div class="card mb-3">
+      <div class="card-header">Extracted Data</div>
+      <div class="card-body">
+        <div id="results" class="small"></div>
+      </div>
+    </div>
+    <div class="card mb-3">
+      <div class="card-header">Route Map</div>
+      <div class="card-body">
+        <div id="map" style="height: 300px;"></div>
+      </div>
+    </div>
+    <div class="card">
+      <div class="card-header">Timeline</div>
+      <div class="card-body">
+        <ul id="timeline" class="list-group list-group-flush"></ul>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

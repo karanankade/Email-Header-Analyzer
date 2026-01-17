@@ -1,0 +1,55 @@
+{
+  "email_id": "9e522b13-6eef-4ca0-afaa-2fdb0b895ad0",
+  "from": "Rushikesh Borade <1022512003@despu.edu.in>",
+  "to": "\"karanankade12@gmail.com\" <karanankade12@gmail.com>",
+  "subject": "",
+  "date": "Sat, 15 Nov 2025 19:19:56 +0530",
+  "return_path": "<1022512003@despu.edu.in>",
+  "message_id": "<CAAi4NeE9ZkjC2TNVO7VFLiY5PErsxJuNu8QRaLPdHvx3Chm+2A@mail.gmail.com>",
+  "received": [
+    "by 2002:a05:7011:4c08:b0:4ec:5c4f:c3d2 with SMTP id 8csp554559mds;\r\n        Sat, 15 Nov 2025 05:50:08 -0800 (PST)",
+    "from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])\r\n        by mx.google.com with SMTPS id ada2fe7eead31-5dfb6c91dd3sor856625137.0.2025.11.15.05.50.08\r\n        for <karanankade12@gmail.com>\r\n        (Google Transport Security);\r\n        Sat, 15 Nov 2025 05:50:08 -0800 (PST)"
+  ],
+  "ip_trace": [
+    {
+      "ip": "209.85.220.41",
+      "is_private": false
+    }
+  ],
+  "geolocation": [
+    {
+      "ip": "209.85.220.41",
+      "city": "Kolkata",
+      "region": "West Bengal",
+      "country": "IN",
+      "org": "AS15169 Google LLC",
+      "latitude": 22.5333,
+      "longitude": 88.3917
+    }
+  ],
+  "hops": [
+    {
+      "received": "by 2002:a05:7011:4c08:b0:4ec:5c4f:c3d2 with SMTP id 8csp554559mds;\r\n        Sat, 15 Nov 2025 05:50:08 -0800 (PST)",
+      "timestamp": "2025-11-15T05:50:08-08:00"
+    },
+    {
+      "received": "from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])\r\n        by mx.google.com with SMTPS id ada2fe7eead31-5dfb6c91dd3sor856625137.0.2025.11.15.05.50.08\r\n        for <karanankade12@gmail.com>\r\n        (Google Transport Security);\r\n        Sat, 15 Nov 2025 05:50:08 -0800 (PST)",
+      "timestamp": "2025-11-15T05:50:08-08:00"
+    }
+  ],
+  "timestamp": "2025-11-15T13:59:14.527132",
+  "spoof_check": {
+    "from_domain": "despu.edu.in",
+    "domains_in_received": [
+      "gmail.com",
+      "mail-sor-f41.google.com",
+      "mx.google.com"
+    ],
+    "mismatch": true
+  },
+  "auth_headers": {
+    "spf": "pass (google.com: domain of 1022512003@despu.edu.in designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;",
+    "dkim": "v=1; a=rsa-sha256; c=relaxed/relaxed;\r\n        d=despu.edu.in; s=google; t=1763214608; x=1763819408; dara=google.com;\r\n        h=to:subject:message-id:date:from:mime-version:from:to:cc:subject\r\n         :date:message-id:reply-to;\r\n        bh=IVVIUYzaRlv4cFt/lBYKpbOTRtRUJ5AcXFqlYDgQV/8=;\r\n        b=NG1578939vz9XWQ4jHJjAZA5aLr8meoTmnl3lIdIconEMPi6ITFlLn1h+2nSLlwAbo\r\n         smS0VCVhz4MciYNUxajUW7bSTI7PcU/Us51gSbCTslNW6iBF4oNVRMvYLyX4dsTMIhHq\r\n         5RM6W0ju6MjR9rnHXE2Z/Rh+Lf05/Fu/GxFlsoGQRuzVKWxETgIWVc5bH4bufektYv52\r\n         smahgiXylRrOYpwnWl7b9cIOpT33fKnHT34S/dzL26OKSJSxJTIfRBNLwt1ouinpwkfI\r\n         EC/l/pP1ZcgPA4TY8KTjfBGJtA5qfyFCm4bdyhH16Sr+hOTKbVnM/c+4kZFGRKpRq+zC\r\n         AJVQ==",
+    "dmarc": "mx.google.com;\r\n       dkim=pass header.i=@despu.edu.in header.s=google header.b=NG157893;\r\n       spf=pass (google.com: domain of 1022512003@despu.edu.in designates 209.85.220.41 as permitted sender) smtp.mailfrom=1022512003@despu.edu.in;\r\n       dara=pass header.i=@gmail.com"
+  }
+}

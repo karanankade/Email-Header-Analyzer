@@ -1,0 +1,84 @@
+{
+  "email_id": "21ecdeaf-1047-4480-bb7e-d7ae853273c7",
+  "from": "SevenMentor Billing <billing@sevenmentor.com>",
+  "to": "karanankade12@gmail.com, sdhas@sevenmentor.com",
+  "subject": "SevenMentor Billing - 1/2/2026, 6:11:42 AM",
+  "date": "Fri, 02 Jan 2026 06:11:42 +0000",
+  "return_path": "<billing@sevenmentor.com>",
+  "message_id": "<d0e7c5b2-87c7-7a35-35f7-99994bfd35cf@sevenmentor.com>",
+  "received": [
+    "by 2002:a05:7011:8088:b0:4f0:4708:bc6b with SMTP id xb8csp2937522mdb;\r\n        Thu, 1 Jan 2026 22:11:47 -0800 (PST)",
+    "from mail-sor-f65.google.com (mail-sor-f65.google.com. [209.85.220.65])\r\n        by mx.google.com with SMTPS id d9443c01a7336-2a2d0884889sor98909115ad.1.2026.01.01.22.11.46\r\n        for <karanankade12@gmail.com>\r\n        (Google Transport Security);\r\n        Thu, 01 Jan 2026 22:11:46 -0800 (PST)",
+    "from [127.0.0.1] (ec2-18-139-213-186.ap-southeast-1.compute.amazonaws.com. [18.139.213.186])\r\n        by smtp.gmail.com with ESMTPSA id d9443c01a7336-2a2f3c6661esm359153465ad.2.2026.01.01.22.11.43\r\n        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);\r\n        Thu, 01 Jan 2026 22:11:44 -0800 (PST)"
+  ],
+  "ip_trace": [
+    {
+      "ip": "209.85.220.65",
+      "is_private": false
+    },
+    {
+      "ip": "127.0.0.1",
+      "is_private": true
+    },
+    {
+      "ip": "18.139.213.186",
+      "is_private": false
+    }
+  ],
+  "geolocation": [
+    {
+      "ip": "209.85.220.65",
+      "city": "Surat",
+      "region": "Gujarat",
+      "country": "IN",
+      "org": "AS15169 Google LLC",
+      "latitude": 21.1959,
+      "longitude": 72.8302
+    },
+    {
+      "ip": "127.0.0.1",
+      "private": true
+    },
+    {
+      "ip": "18.139.213.186",
+      "city": "Singapore",
+      "region": "Singapore",
+      "country": "SG",
+      "org": "AS16509 Amazon.com, Inc.",
+      "latitude": 1.2897,
+      "longitude": 103.8501
+    }
+  ],
+  "hops": [
+    {
+      "received": "by 2002:a05:7011:8088:b0:4f0:4708:bc6b with SMTP id xb8csp2937522mdb;\r\n        Thu, 1 Jan 2026 22:11:47 -0800 (PST)",
+      "timestamp": "2026-01-01T22:11:47-08:00"
+    },
+    {
+      "received": "from mail-sor-f65.google.com (mail-sor-f65.google.com. [209.85.220.65])\r\n        by mx.google.com with SMTPS id d9443c01a7336-2a2d0884889sor98909115ad.1.2026.01.01.22.11.46\r\n        for <karanankade12@gmail.com>\r\n        (Google Transport Security);\r\n        Thu, 01 Jan 2026 22:11:46 -0800 (PST)",
+      "timestamp": "2026-01-01T22:11:46-08:00"
+    },
+    {
+      "received": "from [127.0.0.1] (ec2-18-139-213-186.ap-southeast-1.compute.amazonaws.com. [18.139.213.186])\r\n        by smtp.gmail.com with ESMTPSA id d9443c01a7336-2a2f3c6661esm359153465ad.2.2026.01.01.22.11.43\r\n        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);\r\n        Thu, 01 Jan 2026 22:11:44 -0800 (PST)",
+      "timestamp": "2026-01-01T22:11:44-08:00"
+    }
+  ],
+  "timestamp": "2026-01-11T10:05:08.058512",
+  "spoof_check": {
+    "from_domain": "sevenmentor.com",
+    "domains_in_received": [
+      "ec2-18-139-213-186.ap-southeast-1.compute.amazonaws.com",
+      "gmail.com",
+      "mail-sor-f65.google.com",
+      "mx.google.com",
+      "smtp.gmail.com"
+    ],
+    "mismatch": true
+  },
+  "auth_headers": {
+    "spf": "pass (google.com: domain of billing@sevenmentor.com designates 209.85.220.65 as permitted sender) client-ip=209.85.220.65;",
+    "dkim": "v=1; a=rsa-sha256; c=relaxed/relaxed;\r\n        d=sevenmentor.com; s=google; t=1767334306; x=1767939106; dara=google.com;\r\n        h=mime-version:date:message-id:subject:to:from:from:to:cc:subject\r\n         :date:message-id:reply-to;\r\n        bh=jMT5KhS4TLFlfa68NT+A3aaj2YbfhTFbhWYGH0TwV/s=;\r\n        b=hlLxCXGWzAjs3C3ASQUIqnDTq/bgBOBWPhId7/vl8MN2qqHIJ5UuldVEYsZ+de9YMT\r\n         ge85wbipkvHvAn599PGjKFT9Zu3gPcxxwtePDsvJw5lIZcQyaFxf901TfsHHjihEEEdq\r\n         PXwZk62jPVV4aumYcgs5a8c/dt0+PvJHEqZD05F8brEQbLrQgsoJ5w/lfGKgvQKg654x\r\n         N/yjOLKtqz5mM+ZsrQ1bMz7q8n9GqFADvdsGUq85xZfDhdNv23gpOfzQ2sgJCX9bwsjT\r\n         hvXpjFMjTdCS1adZYuvTrXvJy3r+5aDfCAE4C73b+Vw4RmgXsJKfENjjqFriR++sIWlm\r\n         3W6w==",
+    "dmarc": "mx.google.com;\r\n       dkim=pass header.i=@sevenmentor.com header.s=google header.b=hlLxCXGW;\r\n       spf=pass (google.com: domain of billing@sevenmentor.com designates 209.85.220.65 as permitted sender) smtp.mailfrom=billing@sevenmentor.com;\r\n       dara=pass header.i=@gmail.com"
+  },
+  "user_id": "c116762e-14fa-4003-afa2-2d4631f7c9f1"
+}

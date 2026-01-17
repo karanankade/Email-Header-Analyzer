@@ -1,0 +1,55 @@
+{
+  "email_id": "f5f68fef-b603-4cdb-a980-1b6a6b539962",
+  "from": "LinkedIn <messages-noreply@linkedin.com>",
+  "to": "Karan Ankade <karanankade12@gmail.com>",
+  "subject": "Karan, add Shrikant Gavhale - Student",
+  "date": "Fri, 14 Nov 2025 13:17:51 +0000 (UTC)",
+  "return_path": "<s-4vnl4hmoq3zvunvas191j50fl4ipfhxlaig64jcgbro0gjn9lsb7ax4o@bounce.linkedin.com>",
+  "message_id": "<1913376485.19628458.1763126271139@lor1-app50229.prod.linkedin.com>",
+  "received": [
+    "by 2002:a05:7011:4c08:b0:4ec:5c4f:c3d2 with SMTP id 8csp836579mds;\r\n        Fri, 14 Nov 2025 06:09:56 -0800 (PST)",
+    "from maile-hc.linkedin.com (maile-hc.linkedin.com. [108.174.0.203])\r\n        by mx.google.com with ESMTPS id 41be03b00d2f7-bc37a9fad3asi2745098a12.1569.2025.11.14.06.09.54\r\n        for <karanankade12@gmail.com>\r\n        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);\r\n        Fri, 14 Nov 2025 06:09:56 -0800 (PST)"
+  ],
+  "ip_trace": [
+    {
+      "ip": "108.174.0.203",
+      "is_private": false
+    }
+  ],
+  "geolocation": [
+    {
+      "ip": "108.174.0.203",
+      "city": "Portland",
+      "region": "Oregon",
+      "country": "US",
+      "org": "AS14413 LinkedIn Corporation",
+      "latitude": 45.5234,
+      "longitude": -122.6762
+    }
+  ],
+  "hops": [
+    {
+      "received": "by 2002:a05:7011:4c08:b0:4ec:5c4f:c3d2 with SMTP id 8csp836579mds;\r\n        Fri, 14 Nov 2025 06:09:56 -0800 (PST)",
+      "timestamp": "2025-11-14T06:09:56-08:00"
+    },
+    {
+      "received": "from maile-hc.linkedin.com (maile-hc.linkedin.com. [108.174.0.203])\r\n        by mx.google.com with ESMTPS id 41be03b00d2f7-bc37a9fad3asi2745098a12.1569.2025.11.14.06.09.54\r\n        for <karanankade12@gmail.com>\r\n        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);\r\n        Fri, 14 Nov 2025 06:09:56 -0800 (PST)",
+      "timestamp": "2025-11-14T06:09:56-08:00"
+    }
+  ],
+  "timestamp": "2025-11-15T13:57:48.417313",
+  "spoof_check": {
+    "from_domain": "linkedin.com",
+    "domains_in_received": [
+      "gmail.com",
+      "maile-hc.linkedin.com",
+      "mx.google.com"
+    ],
+    "mismatch": true
+  },
+  "auth_headers": {
+    "spf": "pass (google.com: domain of s-4vnl4hmoq3zvunvas191j50fl4ipfhxlaig64jcgbro0gjn9lsb7ax4o@bounce.linkedin.com designates 108.174.0.203 as permitted sender) client-ip=108.174.0.203;",
+    "dkim": "v=1; a=rsa-sha256; c=relaxed/relaxed; d=maile.linkedin.com;\r\n\ts=d2048-202308-0e; t=1763126271;\r\n\tbh=oUEPh0MzZCfjhTR/+BomRuwQ8WYAN5/HFAjpILWOh/c=;\r\n\th=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:\r\n\t X-LinkedIn-Template:X-LinkedIn-fbl;\r\n\tb=dDh0lakFLqZh7gWvGtpziX1TWUcI0NywAeXZimbvA+F8qD6vBzHdDyDWRpqW5fXlZ\r\n\t WKFOjFDAJjPNH6qWoAsRmu5oLA2m5wVNCezXHGAMVQkD0aOmR/ytE3Q2H03uJPvr2/\r\n\t cWReWgvzeRvNvx/iGbUTxGbqvZZZwx0tS0Alg9Qnalkgp8YTMN69Kf1ppIxHtS4hBg\r\n\t zNxJNbq4Gqu2NLj36113UMN0ge/dHZNyMMn/I/PXH2Ssb1A1AAJqXx0EwZdcQx7s7v\r\n\t 3d4BDlmIjMYUaeRlkXtsJNodyFjDLXntrRHrufiRnEi2b1Dpk6gWRqrmkzVfE8uGKy\r\n\t vJbqUvHCPEBUg==",
+    "dmarc": "mx.google.com;\r\n       dkim=pass header.i=@maile.linkedin.com header.s=d2048-202308-0e header.b=dDh0lakF;\r\n       dkim=pass header.i=@linkedin.com header.s=d2048-202308-00 header.b=g+UWCX+6;\r\n       spf=pass (google.com: domain of s-4vnl4hmoq3zvunvas191j50fl4ipfhxlaig64jcgbro0gjn9lsb7ax4o@bounce.linkedin.com designates 108.174.0.203 as permitted sender) smtp.mailfrom=s-4vnl4hmoq3zvunvas191j50fl4ipfhxlaig64jcgbro0gjn9lsb7ax4o@bounce.linkedin.com;\r\n       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=linkedin.com"
+  }
+}

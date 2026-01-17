@@ -1,0 +1,55 @@
+{
+  "email_id": "d5933808-176f-453e-9548-755cace1926d",
+  "from": "=?utf-8?q?Team_ZebPay_=F0=9F=A6=93?= <no-reply@email.zebpay.com>",
+  "to": "karanankade12@gmail.com",
+  "subject": "=?utf-8?q?Final_Call=3A_New_BTC_Deposit_Addresses_for_Your_ZebPay_Wallet=C2=A0=F0=9F=92=B3?=",
+  "date": "Thu, 13 Nov 2025 13:10:58 +0000",
+  "return_path": "<0109019a7d5732df-6169e7ef-768e-4662-be9a-d0a1ab472836-000000@ap-south-1.amazonses.com>",
+  "message_id": "<0109019a7d5732df-6169e7ef-768e-4662-be9a-d0a1ab472836-000000@ap-south-1.amazonses.com>",
+  "received": [
+    "by 2002:a05:7011:4c08:b0:4ec:5c4f:c3d2 with SMTP id 8csp83187mds;\r\n        Thu, 13 Nov 2025 05:10:59 -0800 (PST)",
+    "from c180-120.smtp-out.ap-south-1.amazonses.com (c180-120.smtp-out.ap-south-1.amazonses.com. [76.223.180.120])\r\n        by mx.google.com with ESMTPS id d2e1a72fcca58-7b9294deb5esi1201476b3a.956.2025.11.13.05.10.58\r\n        for <karanankade12@gmail.com>\r\n        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);\r\n        Thu, 13 Nov 2025 05:10:59 -0800 (PST)"
+  ],
+  "ip_trace": [
+    {
+      "ip": "76.223.180.120",
+      "is_private": false
+    }
+  ],
+  "geolocation": [
+    {
+      "ip": "76.223.180.120",
+      "city": "Seattle",
+      "region": "Washington",
+      "country": "US",
+      "org": "AS16509 Amazon.com, Inc.",
+      "latitude": 47.5846,
+      "longitude": -122.3005
+    }
+  ],
+  "hops": [
+    {
+      "received": "by 2002:a05:7011:4c08:b0:4ec:5c4f:c3d2 with SMTP id 8csp83187mds;\r\n        Thu, 13 Nov 2025 05:10:59 -0800 (PST)",
+      "timestamp": "2025-11-13T05:10:59-08:00"
+    },
+    {
+      "received": "from c180-120.smtp-out.ap-south-1.amazonses.com (c180-120.smtp-out.ap-south-1.amazonses.com. [76.223.180.120])\r\n        by mx.google.com with ESMTPS id d2e1a72fcca58-7b9294deb5esi1201476b3a.956.2025.11.13.05.10.58\r\n        for <karanankade12@gmail.com>\r\n        (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256 bits=128/128);\r\n        Thu, 13 Nov 2025 05:10:59 -0800 (PST)",
+      "timestamp": "2025-11-13T05:10:59-08:00"
+    }
+  ],
+  "timestamp": "2025-11-13T16:55:23.209296",
+  "spoof_check": {
+    "from_domain": "email.zebpay.com",
+    "domains_in_received": [
+      "c180-120.smtp-out.ap-south-1.amazonses.com",
+      "gmail.com",
+      "mx.google.com"
+    ],
+    "mismatch": true
+  },
+  "auth_headers": {
+    "spf": "pass (google.com: domain of 0109019a7d5732df-6169e7ef-768e-4662-be9a-d0a1ab472836-000000@ap-south-1.amazonses.com designates 76.223.180.120 as permitted sender) client-ip=76.223.180.120;",
+    "dkim": "v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;\r\n\ts=b77dixgsrauuqiqx5yrfbjibzsg563q2; d=email.zebpay.com;\r\n\tt=1763039458;\r\n\th=Content-Type:MIME-Version:Subject:From:To:Reply-To:Message-ID:Date;\r\n\tbh=32gUEGIOFXeTQND7eRuqo6dnZG5v2RChHC9BjKtgRaE=;\r\n\tb=diN5fmUD6Tg/nWgUDDKmor8uTcFcIcqxk7r+4zCeqCnAO8ZLD4W3uIge3z2sumOe\r\n\tnWV4Dx1HUehLfKXeBkpWVnhWRhsRqzpUnNUR2M+jHxLjh+KHOxOdYzD6HyYAEnD9r/G\r\n\t4hbhfPVCPPGbqjtnrtK8QAoIOEQwSHzuTUOUBSEA=",
+    "dmarc": "mx.google.com;\r\n       dkim=pass header.i=@email.zebpay.com header.s=b77dixgsrauuqiqx5yrfbjibzsg563q2 header.b=diN5fmUD;\r\n       dkim=pass header.i=@amazonses.com header.s=dvogjbaa3ou3tduyzvyu4rj5tkuzdi4h header.b=IniImLu5;\r\n       spf=pass (google.com: domain of 0109019a7d5732df-6169e7ef-768e-4662-be9a-d0a1ab472836-000000@ap-south-1.amazonses.com designates 76.223.180.120 as permitted sender) smtp.mailfrom=0109019a7d5732df-6169e7ef-768e-4662-be9a-d0a1ab472836-000000@ap-south-1.amazonses.com;\r\n       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=email.zebpay.com"
+  }
+}

@@ -1,0 +1,263 @@
+2025-11-13 21:44:41,721 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.185.124.53:5000
+2025-11-13 21:44:41,721 INFO [33mPress CTRL+C to quit[0m
+2025-11-13 21:44:41,742 INFO  * Restarting with stat
+2025-11-13 21:44:43,250 WARNING  * Debugger is active!
+2025-11-13 21:44:43,257 INFO  * Debugger PIN: 116-646-189
+2025-11-13 21:44:59,371 INFO 127.0.0.1 - - [13/Nov/2025 21:44:59] "GET /?ide_webview_request_time=1763050498919 HTTP/1.1" 200 -
+2025-11-13 21:44:59,899 INFO 127.0.0.1 - - [13/Nov/2025 21:44:59] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-11-13 21:44:59,926 INFO 127.0.0.1 - - [13/Nov/2025 21:44:59] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-11-13 21:44:59,979 INFO 127.0.0.1 - - [13/Nov/2025 21:44:59] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-11-13 21:46:35,496 INFO 127.0.0.1 - - [13/Nov/2025 21:46:35] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 21:47:36,168 INFO 127.0.0.1 - - [13/Nov/2025 21:47:36] "GET /?ide_webview_request_time=1763050498919 HTTP/1.1" 200 -
+2025-11-13 21:47:36,215 INFO 127.0.0.1 - - [13/Nov/2025 21:47:36] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-11-13 21:47:36,482 INFO 127.0.0.1 - - [13/Nov/2025 21:47:36] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-11-13 21:47:36,502 INFO 127.0.0.1 - - [13/Nov/2025 21:47:36] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-11-13 22:07:32,709 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.185.124.53:5000
+2025-11-13 22:07:32,709 INFO [33mPress CTRL+C to quit[0m
+2025-11-13 22:07:32,711 INFO  * Restarting with stat
+2025-11-13 22:07:33,659 WARNING  * Debugger is active!
+2025-11-13 22:07:33,664 INFO  * Debugger PIN: 116-646-189
+2025-11-13 22:07:38,029 INFO 127.0.0.1 - - [13/Nov/2025 22:07:38] "GET /?ide_webview_request_time=1763051857576 HTTP/1.1" 200 -
+2025-11-13 22:07:38,476 INFO 127.0.0.1 - - [13/Nov/2025 22:07:38] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-11-13 22:07:38,527 INFO 127.0.0.1 - - [13/Nov/2025 22:07:38] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-11-13 22:07:38,991 INFO 127.0.0.1 - - [13/Nov/2025 22:07:38] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-11-13 22:08:29,703 INFO 127.0.0.1 - - [13/Nov/2025 22:08:29] "GET / HTTP/1.1" 200 -
+2025-11-13 22:12:22,602 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.185.124.53:5000
+2025-11-13 22:12:22,602 INFO [33mPress CTRL+C to quit[0m
+2025-11-13 22:12:22,614 INFO  * Restarting with stat
+2025-11-13 22:12:23,126 WARNING  * Debugger is active!
+2025-11-13 22:12:23,128 INFO  * Debugger PIN: 128-929-396
+2025-11-13 22:13:00,500 INFO 127.0.0.1 - - [13/Nov/2025 22:13:00] "GET / HTTP/1.1" 200 -
+2025-11-13 22:13:00,542 INFO 127.0.0.1 - - [13/Nov/2025 22:13:00] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-11-13 22:13:00,547 INFO 127.0.0.1 - - [13/Nov/2025 22:13:00] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-11-13 22:13:01,279 INFO 127.0.0.1 - - [13/Nov/2025 22:13:01] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-13 22:16:00,662 INFO 127.0.0.1 - - [13/Nov/2025 22:16:00] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 22:16:11,566 INFO 127.0.0.1 - - [13/Nov/2025 22:16:11] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 22:16:12,128 INFO 127.0.0.1 - - [13/Nov/2025 22:16:12] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 22:16:25,315 INFO 127.0.0.1 - - [13/Nov/2025 22:16:25] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 22:16:43,899 INFO 127.0.0.1 - - [13/Nov/2025 22:16:43] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 22:17:35,928 INFO 127.0.0.1 - - [13/Nov/2025 22:17:35] "GET / HTTP/1.1" 200 -
+2025-11-13 22:17:35,964 INFO 127.0.0.1 - - [13/Nov/2025 22:17:35] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-11-13 22:17:35,968 INFO 127.0.0.1 - - [13/Nov/2025 22:17:35] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-11-13 22:17:45,264 INFO 127.0.0.1 - - [13/Nov/2025 22:17:45] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 22:19:10,904 INFO 127.0.0.1 - - [13/Nov/2025 22:19:10] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-11-13 22:19:21,510 INFO 127.0.0.1 - - [13/Nov/2025 22:19:21] "GET / HTTP/1.1" 200 -
+2025-11-13 22:19:21,534 INFO 127.0.0.1 - - [13/Nov/2025 22:19:21] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-11-13 22:19:21,540 INFO 127.0.0.1 - - [13/Nov/2025 22:19:21] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-11-13 22:19:29,538 INFO 127.0.0.1 - - [13/Nov/2025 22:19:29] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 22:19:39,361 INFO 127.0.0.1 - - [13/Nov/2025 22:19:39] "GET / HTTP/1.1" 200 -
+2025-11-13 22:19:39,387 INFO 127.0.0.1 - - [13/Nov/2025 22:19:39] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-11-13 22:19:39,393 INFO 127.0.0.1 - - [13/Nov/2025 22:19:39] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-11-13 22:19:40,858 INFO 127.0.0.1 - - [13/Nov/2025 22:19:40] "[31m[1mPOST /api/analyze HTTP/1.1[0m" 400 -
+2025-11-13 22:19:42,529 INFO 127.0.0.1 - - [13/Nov/2025 22:19:42] "[31m[1mPOST /api/analyze HTTP/1.1[0m" 400 -
+2025-11-13 22:19:49,373 INFO 127.0.0.1 - - [13/Nov/2025 22:19:49] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 22:20:08,469 INFO 127.0.0.1 - - [13/Nov/2025 22:20:08] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-11-13 22:20:08,483 INFO 127.0.0.1 - - [13/Nov/2025 22:20:08] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-11-13 22:21:22,230 INFO 127.0.0.1 - - [13/Nov/2025 22:21:22] "[33mGET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1[0m" 404 -
+2025-11-13 22:24:44,950 INFO 127.0.0.1 - - [13/Nov/2025 22:24:44] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-11-13 22:24:53,271 INFO 127.0.0.1 - - [13/Nov/2025 22:24:53] "GET / HTTP/1.1" 200 -
+2025-11-13 22:24:53,298 INFO 127.0.0.1 - - [13/Nov/2025 22:24:53] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-11-13 22:24:53,308 INFO 127.0.0.1 - - [13/Nov/2025 22:24:53] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-11-13 22:24:55,424 INFO 127.0.0.1 - - [13/Nov/2025 22:24:55] "[31m[1mPOST /api/analyze HTTP/1.1[0m" 400 -
+2025-11-13 22:25:01,867 INFO 127.0.0.1 - - [13/Nov/2025 22:25:01] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 22:25:16,507 INFO 127.0.0.1 - - [13/Nov/2025 22:25:16] "GET / HTTP/1.1" 200 -
+2025-11-13 22:25:16,532 INFO 127.0.0.1 - - [13/Nov/2025 22:25:16] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-11-13 22:25:16,533 INFO 127.0.0.1 - - [13/Nov/2025 22:25:16] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-11-13 22:25:23,211 INFO 127.0.0.1 - - [13/Nov/2025 22:25:23] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 22:26:13,762 INFO 127.0.0.1 - - [13/Nov/2025 22:26:13] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 22:26:29,516 INFO 127.0.0.1 - - [13/Nov/2025 22:26:29] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-11-13 22:26:41,185 INFO 127.0.0.1 - - [13/Nov/2025 22:26:41] "GET /?ide_webview_request_time=1763051857576 HTTP/1.1" 200 -
+2025-11-13 22:26:41,505 INFO 127.0.0.1 - - [13/Nov/2025 22:26:41] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-11-13 22:26:41,506 INFO 127.0.0.1 - - [13/Nov/2025 22:26:41] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-11-13 22:26:41,768 INFO 127.0.0.1 - - [13/Nov/2025 22:26:41] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-11-13 22:26:43,392 INFO 127.0.0.1 - - [13/Nov/2025 22:26:43] "[31m[1mPOST /api/analyze HTTP/1.1[0m" 400 -
+2025-11-13 22:26:49,695 INFO 127.0.0.1 - - [13/Nov/2025 22:26:49] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 22:27:42,757 INFO 127.0.0.1 - - [13/Nov/2025 22:27:42] "GET / HTTP/1.1" 200 -
+2025-11-13 22:27:42,794 INFO 127.0.0.1 - - [13/Nov/2025 22:27:42] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-11-13 22:27:42,795 INFO 127.0.0.1 - - [13/Nov/2025 22:27:42] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-11-13 22:27:47,315 INFO 127.0.0.1 - - [13/Nov/2025 22:27:47] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-11-13 22:27:49,247 INFO 127.0.0.1 - - [13/Nov/2025 22:27:49] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 22:28:05,904 INFO 127.0.0.1 - - [13/Nov/2025 22:28:05] "GET / HTTP/1.1" 200 -
+2025-11-13 22:28:05,925 INFO 127.0.0.1 - - [13/Nov/2025 22:28:05] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-11-13 22:28:05,930 INFO 127.0.0.1 - - [13/Nov/2025 22:28:05] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-11-13 22:28:11,446 INFO 127.0.0.1 - - [13/Nov/2025 22:28:11] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 22:28:29,670 INFO 127.0.0.1 - - [13/Nov/2025 22:28:29] "GET /?ide_webview_request_time=1763051857576 HTTP/1.1" 200 -
+2025-11-13 22:28:29,932 INFO 127.0.0.1 - - [13/Nov/2025 22:28:29] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-11-13 22:28:29,986 INFO 127.0.0.1 - - [13/Nov/2025 22:28:29] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-11-13 22:28:30,057 INFO 127.0.0.1 - - [13/Nov/2025 22:28:30] "[33mGET /@vite/client HTTP/1.1[0m" 404 -
+2025-11-13 22:28:36,410 INFO 127.0.0.1 - - [13/Nov/2025 22:28:36] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 22:29:07,978 INFO 127.0.0.1 - - [13/Nov/2025 22:29:07] "GET / HTTP/1.1" 200 -
+2025-11-13 22:29:08,010 INFO 127.0.0.1 - - [13/Nov/2025 22:29:08] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-11-13 22:29:08,012 INFO 127.0.0.1 - - [13/Nov/2025 22:29:08] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-11-13 22:29:14,038 INFO 127.0.0.1 - - [13/Nov/2025 22:29:14] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 22:30:52,610 INFO 127.0.0.1 - - [13/Nov/2025 22:30:52] "GET / HTTP/1.1" 200 -
+2025-11-13 22:31:11,524 INFO 127.0.0.1 - - [13/Nov/2025 22:31:11] "GET / HTTP/1.1" 200 -
+2025-11-13 22:31:11,550 INFO 127.0.0.1 - - [13/Nov/2025 22:31:11] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-11-13 22:31:11,551 INFO 127.0.0.1 - - [13/Nov/2025 22:31:11] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-11-13 22:31:17,097 INFO 127.0.0.1 - - [13/Nov/2025 22:31:17] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 22:31:28,873 INFO 127.0.0.1 - - [13/Nov/2025 22:31:28] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 22:31:37,114 INFO 127.0.0.1 - - [13/Nov/2025 22:31:37] "GET / HTTP/1.1" 200 -
+2025-11-13 22:31:37,136 INFO 127.0.0.1 - - [13/Nov/2025 22:31:37] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-11-13 22:31:37,141 INFO 127.0.0.1 - - [13/Nov/2025 22:31:37] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-11-13 22:32:00,560 INFO 127.0.0.1 - - [13/Nov/2025 22:32:00] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 23:09:35,078 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.185.124.53:5000
+2025-11-13 23:09:35,078 INFO [33mPress CTRL+C to quit[0m
+2025-11-13 23:09:35,080 INFO  * Restarting with stat
+2025-11-13 23:09:35,565 WARNING  * Debugger is active!
+2025-11-13 23:09:35,568 INFO  * Debugger PIN: 116-646-189
+2025-11-13 23:09:53,904 INFO 127.0.0.1 - - [13/Nov/2025 23:09:53] "GET / HTTP/1.1" 200 -
+2025-11-13 23:09:54,263 INFO 127.0.0.1 - - [13/Nov/2025 23:09:54] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-11-13 23:09:54,273 INFO 127.0.0.1 - - [13/Nov/2025 23:09:54] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-11-13 23:09:54,319 INFO 127.0.0.1 - - [13/Nov/2025 23:09:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-13 23:10:05,844 INFO 127.0.0.1 - - [13/Nov/2025 23:10:05] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 23:10:43,922 INFO 127.0.0.1 - - [13/Nov/2025 23:10:43] "GET / HTTP/1.1" 200 -
+2025-11-13 23:10:43,949 INFO 127.0.0.1 - - [13/Nov/2025 23:10:43] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-11-13 23:10:43,951 INFO 127.0.0.1 - - [13/Nov/2025 23:10:43] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-11-13 23:10:47,583 INFO 127.0.0.1 - - [13/Nov/2025 23:10:47] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 23:10:55,083 INFO 127.0.0.1 - - [13/Nov/2025 23:10:55] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 23:11:02,920 INFO 127.0.0.1 - - [13/Nov/2025 23:11:02] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-13 23:11:20,950 INFO 127.0.0.1 - - [13/Nov/2025 23:11:20] "GET / HTTP/1.1" 200 -
+2025-11-13 23:11:20,976 INFO 127.0.0.1 - - [13/Nov/2025 23:11:20] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-11-13 23:11:20,979 INFO 127.0.0.1 - - [13/Nov/2025 23:11:20] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-11-13 23:11:26,604 INFO 127.0.0.1 - - [13/Nov/2025 23:11:26] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-15 19:27:22,435 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.84.157:5000
+2025-11-15 19:27:22,435 INFO [33mPress CTRL+C to quit[0m
+2025-11-15 19:27:22,436 INFO  * Restarting with stat
+2025-11-15 19:27:24,674 WARNING  * Debugger is active!
+2025-11-15 19:27:24,678 INFO  * Debugger PIN: 111-837-406
+2025-11-15 19:27:36,380 INFO 127.0.0.1 - - [15/Nov/2025 19:27:36] "GET / HTTP/1.1" 200 -
+2025-11-15 19:27:36,724 INFO 127.0.0.1 - - [15/Nov/2025 19:27:36] "GET /static/js/main.js HTTP/1.1" 200 -
+2025-11-15 19:27:36,733 INFO 127.0.0.1 - - [15/Nov/2025 19:27:36] "GET /static/css/styles.css HTTP/1.1" 200 -
+2025-11-15 19:27:36,788 INFO 127.0.0.1 - - [15/Nov/2025 19:27:36] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-11-15 19:27:48,419 INFO 127.0.0.1 - - [15/Nov/2025 19:27:48] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-15 19:29:14,529 INFO 127.0.0.1 - - [15/Nov/2025 19:29:14] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-15 19:29:31,696 INFO 127.0.0.1 - - [15/Nov/2025 19:29:31] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-15 19:29:42,695 INFO 127.0.0.1 - - [15/Nov/2025 19:29:42] "GET / HTTP/1.1" 200 -
+2025-11-15 19:29:42,720 INFO 127.0.0.1 - - [15/Nov/2025 19:29:42] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-11-15 19:29:42,723 INFO 127.0.0.1 - - [15/Nov/2025 19:29:42] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-11-15 19:29:42,890 INFO 127.0.0.1 - - [15/Nov/2025 19:29:42] "GET / HTTP/1.1" 200 -
+2025-11-15 19:29:42,917 INFO 127.0.0.1 - - [15/Nov/2025 19:29:42] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-11-15 19:29:42,919 INFO 127.0.0.1 - - [15/Nov/2025 19:29:42] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-11-15 19:29:43,109 INFO 127.0.0.1 - - [15/Nov/2025 19:29:43] "GET / HTTP/1.1" 200 -
+2025-11-15 19:29:43,149 INFO 127.0.0.1 - - [15/Nov/2025 19:29:43] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-11-15 19:29:43,157 INFO 127.0.0.1 - - [15/Nov/2025 19:29:43] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-11-15 19:29:43,733 INFO 127.0.0.1 - - [15/Nov/2025 19:29:43] "GET / HTTP/1.1" 200 -
+2025-11-15 19:29:43,765 INFO 127.0.0.1 - - [15/Nov/2025 19:29:43] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-11-15 19:29:43,767 INFO 127.0.0.1 - - [15/Nov/2025 19:29:43] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-11-15 19:29:43,904 INFO 127.0.0.1 - - [15/Nov/2025 19:29:43] "GET / HTTP/1.1" 200 -
+2025-11-15 19:29:43,928 INFO 127.0.0.1 - - [15/Nov/2025 19:29:43] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-11-15 19:29:43,930 INFO 127.0.0.1 - - [15/Nov/2025 19:29:43] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-11-15 19:29:44,079 INFO 127.0.0.1 - - [15/Nov/2025 19:29:44] "GET / HTTP/1.1" 200 -
+2025-11-15 19:29:44,102 INFO 127.0.0.1 - - [15/Nov/2025 19:29:44] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-11-15 19:29:44,108 INFO 127.0.0.1 - - [15/Nov/2025 19:29:44] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-11-15 19:29:44,300 INFO 127.0.0.1 - - [15/Nov/2025 19:29:44] "GET / HTTP/1.1" 200 -
+2025-11-15 19:29:44,333 INFO 127.0.0.1 - - [15/Nov/2025 19:29:44] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2025-11-15 19:29:44,335 INFO 127.0.0.1 - - [15/Nov/2025 19:29:44] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2025-11-15 19:29:49,312 INFO 127.0.0.1 - - [15/Nov/2025 19:29:49] "POST /api/analyze HTTP/1.1" 200 -
+2025-11-15 19:33:11,620 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.84.157:5000
+2025-11-15 19:33:11,620 INFO [33mPress CTRL+C to quit[0m
+2025-11-15 19:33:11,621 INFO  * Restarting with stat
+2025-11-15 19:33:12,124 WARNING  * Debugger is active!
+2025-11-15 19:33:12,127 INFO  * Debugger PIN: 128-929-396
+2026-01-11 15:31:10,005 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.16.246.157:5000
+2026-01-11 15:31:10,005 INFO [33mPress CTRL+C to quit[0m
+2026-01-11 15:31:10,006 INFO  * Restarting with stat
+2026-01-11 15:31:10,720 WARNING  * Debugger is active!
+2026-01-11 15:31:10,724 INFO  * Debugger PIN: 886-219-808
+2026-01-11 15:31:47,263 INFO 127.0.0.1 - - [11/Jan/2026 15:31:47] "GET / HTTP/1.1" 200 -
+2026-01-11 15:31:47,904 INFO 127.0.0.1 - - [11/Jan/2026 15:31:47] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2026-01-11 15:31:47,912 INFO 127.0.0.1 - - [11/Jan/2026 15:31:47] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2026-01-11 15:31:47,974 INFO 127.0.0.1 - - [11/Jan/2026 15:31:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-11 15:31:52,283 INFO 127.0.0.1 - - [11/Jan/2026 15:31:52] "GET /dashboard HTTP/1.1" 200 -
+2026-01-11 15:31:52,316 INFO 127.0.0.1 - - [11/Jan/2026 15:31:52] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2026-01-11 15:31:52,324 INFO 127.0.0.1 - - [11/Jan/2026 15:31:52] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2026-01-11 15:31:52,412 INFO 127.0.0.1 - - [11/Jan/2026 15:31:52] "[31m[1mGET /api/history HTTP/1.1[0m" 401 -
+2026-01-11 15:31:53,707 INFO 127.0.0.1 - - [11/Jan/2026 15:31:53] "GET /login HTTP/1.1" 200 -
+2026-01-11 15:31:53,746 INFO 127.0.0.1 - - [11/Jan/2026 15:31:53] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2026-01-11 15:31:53,750 INFO 127.0.0.1 - - [11/Jan/2026 15:31:53] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2026-01-11 15:32:02,748 INFO 127.0.0.1 - - [11/Jan/2026 15:32:02] "[31m[1mPOST /api/login HTTP/1.1[0m" 401 -
+2026-01-11 15:32:06,979 INFO 127.0.0.1 - - [11/Jan/2026 15:32:06] "GET /register HTTP/1.1" 200 -
+2026-01-11 15:32:07,016 INFO 127.0.0.1 - - [11/Jan/2026 15:32:07] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2026-01-11 15:32:07,019 INFO 127.0.0.1 - - [11/Jan/2026 15:32:07] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2026-01-11 15:32:15,584 INFO 127.0.0.1 - - [11/Jan/2026 15:32:15] "POST /api/register HTTP/1.1" 200 -
+2026-01-11 15:32:15,614 INFO 127.0.0.1 - - [11/Jan/2026 15:32:15] "GET /dashboard HTTP/1.1" 200 -
+2026-01-11 15:32:15,660 INFO 127.0.0.1 - - [11/Jan/2026 15:32:15] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2026-01-11 15:32:15,664 INFO 127.0.0.1 - - [11/Jan/2026 15:32:15] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2026-01-11 15:32:15,849 INFO 127.0.0.1 - - [11/Jan/2026 15:32:15] "GET /api/history HTTP/1.1" 200 -
+2026-01-11 15:32:19,824 INFO 127.0.0.1 - - [11/Jan/2026 15:32:19] "GET /login HTTP/1.1" 200 -
+2026-01-11 15:32:19,868 INFO 127.0.0.1 - - [11/Jan/2026 15:32:19] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2026-01-11 15:32:19,869 INFO 127.0.0.1 - - [11/Jan/2026 15:32:19] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2026-01-11 15:32:28,126 INFO 127.0.0.1 - - [11/Jan/2026 15:32:28] "POST /api/login HTTP/1.1" 200 -
+2026-01-11 15:32:28,157 INFO 127.0.0.1 - - [11/Jan/2026 15:32:28] "GET /dashboard HTTP/1.1" 200 -
+2026-01-11 15:32:28,196 INFO 127.0.0.1 - - [11/Jan/2026 15:32:28] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2026-01-11 15:32:28,198 INFO 127.0.0.1 - - [11/Jan/2026 15:32:28] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2026-01-11 15:32:28,374 INFO 127.0.0.1 - - [11/Jan/2026 15:32:28] "GET /api/history HTTP/1.1" 200 -
+2026-01-11 15:32:33,592 INFO 127.0.0.1 - - [11/Jan/2026 15:32:33] "GET /login HTTP/1.1" 200 -
+2026-01-11 15:32:33,628 INFO 127.0.0.1 - - [11/Jan/2026 15:32:33] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2026-01-11 15:32:33,635 INFO 127.0.0.1 - - [11/Jan/2026 15:32:33] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2026-01-11 15:32:34,759 INFO 127.0.0.1 - - [11/Jan/2026 15:32:34] "GET /register HTTP/1.1" 200 -
+2026-01-11 15:32:34,784 INFO 127.0.0.1 - - [11/Jan/2026 15:32:34] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2026-01-11 15:32:34,792 INFO 127.0.0.1 - - [11/Jan/2026 15:32:34] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2026-01-11 15:32:36,638 INFO 127.0.0.1 - - [11/Jan/2026 15:32:36] "[31m[1mPOST /api/register HTTP/1.1[0m" 409 -
+2026-01-11 15:32:41,045 INFO 127.0.0.1 - - [11/Jan/2026 15:32:41] "GET /login HTTP/1.1" 200 -
+2026-01-11 15:32:41,087 INFO 127.0.0.1 - - [11/Jan/2026 15:32:41] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2026-01-11 15:32:41,090 INFO 127.0.0.1 - - [11/Jan/2026 15:32:41] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2026-01-11 15:32:42,874 INFO 127.0.0.1 - - [11/Jan/2026 15:32:42] "POST /api/login HTTP/1.1" 200 -
+2026-01-11 15:32:42,897 INFO 127.0.0.1 - - [11/Jan/2026 15:32:42] "GET /dashboard HTTP/1.1" 200 -
+2026-01-11 15:32:42,927 INFO 127.0.0.1 - - [11/Jan/2026 15:32:42] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2026-01-11 15:32:42,934 INFO 127.0.0.1 - - [11/Jan/2026 15:32:42] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2026-01-11 15:32:43,092 INFO 127.0.0.1 - - [11/Jan/2026 15:32:43] "GET /api/history HTTP/1.1" 200 -
+2026-01-11 15:32:45,450 INFO 127.0.0.1 - - [11/Jan/2026 15:32:45] "GET /api/export HTTP/1.1" 200 -
+2026-01-11 15:32:59,715 INFO 127.0.0.1 - - [11/Jan/2026 15:32:59] "GET /dashboard HTTP/1.1" 200 -
+2026-01-11 15:32:59,742 INFO 127.0.0.1 - - [11/Jan/2026 15:32:59] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2026-01-11 15:32:59,752 INFO 127.0.0.1 - - [11/Jan/2026 15:32:59] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2026-01-11 15:32:59,886 INFO 127.0.0.1 - - [11/Jan/2026 15:32:59] "GET /api/history HTTP/1.1" 200 -
+2026-01-11 15:33:08,420 INFO 127.0.0.1 - - [11/Jan/2026 15:33:08] "GET /api/export HTTP/1.1" 200 -
+2026-01-11 15:33:14,506 INFO 127.0.0.1 - - [11/Jan/2026 15:33:14] "GET /dashboard HTTP/1.1" 200 -
+2026-01-11 15:33:14,539 INFO 127.0.0.1 - - [11/Jan/2026 15:33:14] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2026-01-11 15:33:14,541 INFO 127.0.0.1 - - [11/Jan/2026 15:33:14] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2026-01-11 15:33:14,647 INFO 127.0.0.1 - - [11/Jan/2026 15:33:14] "GET /api/history HTTP/1.1" 200 -
+2026-01-11 15:33:16,844 INFO 127.0.0.1 - - [11/Jan/2026 15:33:16] "GET / HTTP/1.1" 200 -
+2026-01-11 15:33:16,877 INFO 127.0.0.1 - - [11/Jan/2026 15:33:16] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2026-01-11 15:33:16,886 INFO 127.0.0.1 - - [11/Jan/2026 15:33:16] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2026-01-11 15:35:08,064 INFO 127.0.0.1 - - [11/Jan/2026 15:35:08] "POST /api/analyze HTTP/1.1" 200 -
+2026-01-14 23:39:09,153 INFO [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.32.215.157:5000
+2026-01-14 23:39:09,154 INFO [33mPress CTRL+C to quit[0m
+2026-01-14 23:39:09,284 INFO  * Restarting with watchdog (windowsapi)
+2026-01-14 23:39:09,965 WARNING  * Debugger is active!
+2026-01-14 23:39:09,972 INFO  * Debugger PIN: 109-697-303
+2026-01-14 23:39:25,157 INFO  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.2544.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\unicode_escape.py', reloading
+2026-01-14 23:39:25,398 INFO  * Restarting with watchdog (windowsapi)
+2026-01-14 23:39:26,238 WARNING  * Debugger is active!
+2026-01-14 23:39:26,245 INFO  * Debugger PIN: 109-697-303
+2026-01-14 23:39:26,470 INFO 127.0.0.1 - - [14/Jan/2026 23:39:26] "GET / HTTP/1.1" 200 -
+2026-01-14 23:39:26,718 INFO 127.0.0.1 - - [14/Jan/2026 23:39:26] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2026-01-14 23:39:26,765 INFO 127.0.0.1 - - [14/Jan/2026 23:39:26] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -
+2026-01-14 23:39:26,900 INFO 127.0.0.1 - - [14/Jan/2026 23:39:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2026-01-14 23:39:31,229 INFO 127.0.0.1 - - [14/Jan/2026 23:39:31] "GET /login HTTP/1.1" 200 -
+2026-01-14 23:39:31,258 INFO 127.0.0.1 - - [14/Jan/2026 23:39:31] "[36mGET /static/css/styles.css HTTP/1.1[0m" 304 -
+2026-01-14 23:39:31,265 INFO 127.0.0.1 - - [14/Jan/2026 23:39:31] "[36mGET /static/js/main.js HTTP/1.1[0m" 304 -

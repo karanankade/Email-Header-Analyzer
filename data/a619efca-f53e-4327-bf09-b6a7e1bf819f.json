@@ -1,0 +1,55 @@
+{
+  "email_id": "a619efca-f53e-4327-bf09-b6a7e1bf819f",
+  "from": "LinkedIn <updates-noreply@linkedin.com>",
+  "to": "Karan Ankade <karanankade12@gmail.com>",
+  "subject": "Tata Technologies Graduate Engineering Trainee recently posted",
+  "date": "Mon, 10 Nov 2025 14:33:08 +0000 (UTC)",
+  "return_path": "<s-2img03yt3ik4cbp60lh2isgpkhkofiwyql8wcu629rg4e6zyhwribotf@bounce.linkedin.com>",
+  "message_id": "<1686596882.24225321.1762785188172@lor1-app71415.prod.linkedin.com>",
+  "received": [
+    "by 2002:a05:7010:4ad1:b0:4ec:1923:9d64 with SMTP id l17csp1046210mdn;\r\n        Mon, 10 Nov 2025 06:33:13 -0800 (PST)",
+    "from maile-ba.linkedin.com (maile-ba.linkedin.com. [108.174.3.201])\r\n        by mx.google.com with ESMTPS id af79cd13be357-8b2354b8835si422687585a.1760.2025.11.10.06.33.13\r\n        for <karanankade12@gmail.com>\r\n        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);\r\n        Mon, 10 Nov 2025 06:33:13 -0800 (PST)"
+  ],
+  "ip_trace": [
+    {
+      "ip": "108.174.3.201",
+      "is_private": false
+    }
+  ],
+  "geolocation": [
+    {
+      "ip": "108.174.3.201",
+      "city": "Leesburg",
+      "region": "Virginia",
+      "country": "US",
+      "org": "AS55163 LinkedIn Corporation",
+      "latitude": 39.1157,
+      "longitude": -77.5636
+    }
+  ],
+  "hops": [
+    {
+      "received": "by 2002:a05:7010:4ad1:b0:4ec:1923:9d64 with SMTP id l17csp1046210mdn;\r\n        Mon, 10 Nov 2025 06:33:13 -0800 (PST)",
+      "timestamp": "2025-11-10T06:33:13-08:00"
+    },
+    {
+      "received": "from maile-ba.linkedin.com (maile-ba.linkedin.com. [108.174.3.201])\r\n        by mx.google.com with ESMTPS id af79cd13be357-8b2354b8835si422687585a.1760.2025.11.10.06.33.13\r\n        for <karanankade12@gmail.com>\r\n        (version=TLS1_3 cipher=TLS_AES_256_GCM_SHA384 bits=256/256);\r\n        Mon, 10 Nov 2025 06:33:13 -0800 (PST)",
+      "timestamp": "2025-11-10T06:33:13-08:00"
+    }
+  ],
+  "timestamp": "2025-11-13T17:41:26.601398",
+  "spoof_check": {
+    "from_domain": "linkedin.com",
+    "domains_in_received": [
+      "gmail.com",
+      "maile-ba.linkedin.com",
+      "mx.google.com"
+    ],
+    "mismatch": true
+  },
+  "auth_headers": {
+    "spf": "pass (google.com: domain of s-2img03yt3ik4cbp60lh2isgpkhkofiwyql8wcu629rg4e6zyhwribotf@bounce.linkedin.com designates 108.174.3.201 as permitted sender) client-ip=108.174.3.201;",
+    "dkim": "v=1; a=rsa-sha256; c=relaxed/relaxed; d=maile.linkedin.com;\r\n\ts=d2048-202308-0e; t=1762785188;\r\n\tbh=nSnR0k49HTgdvA/oQhI4tq1jIpMQuwzWlLSd4WGt520=;\r\n\th=From:Subject:MIME-Version:Content-Type:To:Date:X-LinkedIn-Class:\r\n\t X-LinkedIn-Template:X-LinkedIn-fbl;\r\n\tb=slF00h29aFJQlottyruTc/BmGM4TWgvYw6At2S1euE9Wxnv5ui+3kDWPICCZqT0Iq\r\n\t F2Jf74ioKj/+n+4vykkXDLUmk0nYG0O/qqBsdM8TCgQ8HkBuWYntzD8VrwBIsK5zVQ\r\n\t giuVW6Cfhr9WCfIksscMnmrNKGmjzRQeDc6jFfplMP0JwfCck/R2SkT4ofhIpXKtUh\r\n\t Lm0Sbsu8+zJ6GrjKk0krk7MCOujD80J11ZdWbBHPAgR/LXDz0OF5wF6jO4GcEQ+g7R\r\n\t 7ZFMaRVlV4EfZNu1V74kRQEA5myM9ZReHDMJRZl9BUDvG9TZ4uxjW7cxtcBdujmhP6\r\n\t ThkxBsmN+C7qQ==",
+    "dmarc": "mx.google.com;\r\n       dkim=pass header.i=@maile.linkedin.com header.s=d2048-202308-0e header.b=slF00h29;\r\n       dkim=pass header.i=@linkedin.com header.s=d2048-202308-00 header.b=LuRDEX0C;\r\n       spf=pass (google.com: domain of s-2img03yt3ik4cbp60lh2isgpkhkofiwyql8wcu629rg4e6zyhwribotf@bounce.linkedin.com designates 108.174.3.201 as permitted sender) smtp.mailfrom=s-2img03yt3ik4cbp60lh2isgpkhkofiwyql8wcu629rg4e6zyhwribotf@bounce.linkedin.com;\r\n       dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=linkedin.com"
+  }
+}

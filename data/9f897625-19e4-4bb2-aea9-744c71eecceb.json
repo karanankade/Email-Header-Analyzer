@@ -1,0 +1,24 @@
+{
+  "email_id": "9f897625-19e4-4bb2-aea9-744c71eecceb",
+  "from": null,
+  "to": null,
+  "subject": null,
+  "date": null,
+  "return_path": null,
+  "message_id": null,
+  "received": [],
+  "ip_trace": [],
+  "geolocation": [],
+  "hops": [],
+  "timestamp": "2025-11-13T16:16:35.495406",
+  "spoof_check": {
+    "from_domain": null,
+    "domains_in_received": [],
+    "mismatch": false
+  },
+  "auth_headers": {
+    "spf": null,
+    "dkim": null,
+    "dmarc": null
+  }
+}
